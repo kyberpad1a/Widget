@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WidgetAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/WidgetAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WidgetAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WidgetAndroid.app.iml" />
+    </modules>
+  </component>
+</project>
